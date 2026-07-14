@@ -1,7 +1,7 @@
 # rc4039647-glitch_potfolio
-
-Hi There! I'm Ritika Chaurasia
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/component/asterisk.gif" width="30">
+  Hi There! I'm Ritika Chaurasia
 </h1>
 
 <p align="center">
